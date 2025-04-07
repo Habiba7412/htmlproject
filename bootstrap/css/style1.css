@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    font-family: "Marcellus" , serif;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 20px;
+}
+h4{
+    font-size: 18px;
+}
+p{
+    font-size: 16px;
+}
+
+/* -----header----- */
+
+#banner{
+    height: 70vh;
+    opacity: 1;
+    /* position: absolute; */
+}
+#banner img{
+    height: 70vh;
+    object-fit: cover;
+
+}
+.content-img{
+    position: absolute;
+    top: 180px;
+}
+#banner p{
+    font-weight: 500;
+    margin-top: 20px;
+    letter-spacing: 1px;
+
+}
+#banner h1{
+    font-weight: bold;
+}
+.ChooseUs{
+    margin-top: 100px;
+}
+.imgchoose {
+    margin-top: -40px;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  #contbanner{
+    background-image:url(../images/hero_1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    object-fit: cover;
+  }
+
+  #InnerSection{
+    height: 300px;
+    background-color: aqua;
+  }
+
+
+  .innerSecBox{
+    height: 300px;
+  }
+
+  .inner-sec-img{
+    height: 300px;
+  }
+  .container-fluid{
+
+    border: 5px solid #000;
+  }
+ 
+
+.img-fluid{
+ height: 300px;
+ object-fit: cover;
+}
+
+  

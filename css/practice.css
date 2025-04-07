@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-family: "Questrial", serif;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+#about{
+
+
+    background-color: antiquewhite; 
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.left-content{
+    background-color: aqua;
+    border: 1px solid black;
+
+    height: 500px;
+    width: 50%;
+    padding-right: 50px;
+}

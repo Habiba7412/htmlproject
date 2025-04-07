@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Marcellus", serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+}
+
+
+
+/* ======== HEADER ======== */
